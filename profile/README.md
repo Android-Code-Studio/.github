@@ -10,7 +10,7 @@
 </p>
 
 ### 📦 Repositories
-- [Android Code Studio](https://github.com/Mohammed-baqer-null/AndroidIDE-Rv2) – Main application
+- [Android Code Studio](https://github.com/AndroidCSOfficial/android-code-studio) – Main application
 
 ### 📖 About
 Originally created by [@itsaky](https://github.com/itsaky).  
@@ -18,7 +18,7 @@ Now actively maintained by [@Tom](https://github.com/Mohammed-baqer-null).
 
 ### 🚧 Status
 - Source code was publicly available until **v2.7.4-r1.02** under **GPL-3.0**.  
-- From **v1.0-r01** onward, development continues **privately**.  
+- From **v1.0.0** onward, development continues **privately**.  
 - Public **APK releases** are still published in the [Releases](https://github.com/Mohammed-baqer-null/AndroidIDE-Rv2/releases) section.
 
 ### 📜 License
